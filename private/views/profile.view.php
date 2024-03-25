@@ -11,8 +11,8 @@
 			</div>
 			<div class="col-sm-8 col-md-9 bg-light p-2">
 				<table class="table table-hover table-striped table-bordered">
-					<tr><th>First Name:</th><td>Mary</td></tr>
-					<tr><th>Last Name:</th><td>Phiri</td></tr>
+					<tr><th>First Name:</th><td>Anamika</td></tr>
+					<tr><th>Last Name:</th><td>Neha</td></tr>
 					<tr><th>Gender:</th><td>Female</td></tr>
 					<tr><th>Date Created:</th><td>2021-08-02</td></tr>
 
